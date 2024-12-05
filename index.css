@@ -6,3 +6,19 @@
   text-decoration: none;
   outline: none;
 }
+
+.padding-1{
+  padding: 8px;
+}
+.padding-2{
+  padding: 12px;
+}
+.padding-3{
+  padding: 16px;
+}
+.padding-4{
+  padding: 20px;
+}
+.padding-5{
+  padding: 24px;
+}
