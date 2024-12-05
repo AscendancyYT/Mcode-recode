@@ -168,3 +168,10 @@
 .display-table-row-group{
   display: table-row-group;
 }
+
+.align-items-center{
+  align-items: center;
+}
+.align-items-baseline{
+  align-items: baseline;
+}
