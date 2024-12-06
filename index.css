@@ -181,3 +181,36 @@
 .align-items-flex-end{
   align-items: flex-end;
 }
+.align-items-flex-start{
+  align-items: flex-start;
+}
+.align-items-normal{
+  align-items: normal;
+}
+.align-items-safe{
+  align-items: safe;
+}
+.align-items-self-end{
+  align-items: self-end;
+}
+.align-items-self-start{
+  align-items: self-start;
+}
+.align-items-start{
+  align-items: start;
+}
+.align-items-stretch{
+  align-items: stretch;
+}
+.align-items-unsafe{
+  align-items: unsafe;
+}
+.align-items-inherit{
+  align-items: inherit;
+}
+.align-items-initial{
+  align-items: initial;
+}
+.align-items-unset{
+  align-items: unset;
+}
