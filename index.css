@@ -265,3 +265,22 @@
 .flex-direction-unset{
   flex-direction: unset;
 }
+
+.flex-wrap-wrap{
+  flex-wrap: wrap;
+}
+.flex-wrap-nowrap{
+  flex-wrap: nowrap;
+}
+.flex-wrap-wrap-reverse{
+  flex-wrap: wrap-reverse;
+}
+.flex-wrap-inherit{
+  flex-wrap: inherit;
+}
+.flex-wrap-initial{
+  flex-wrap: initial;
+}
+.flex-wrap-unset{
+  flex-wrap: unset;
+}
