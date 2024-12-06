@@ -214,3 +214,31 @@
 .align-items-unset{
   align-items: unset;
 }
+
+.flex-auto{
+  flex: auto;
+}
+.flex-content{
+  flex: content;
+}
+.flex-none{
+  flex: none;
+}
+.flex-1{
+  flex: 8px;
+}
+.flex-2{
+  flex: 12px;
+}
+.flex-3{
+  flex: 16px;
+}
+.flex-4{
+  flex: 20px;
+}
+.flex-5{
+  flex: 24px;
+}
+.flex-half{
+  flex: 4px;
+}
